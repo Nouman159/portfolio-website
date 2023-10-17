@@ -17,9 +17,9 @@ const HeroSection = () => {
                             sequence={[
                                 'Nouman Arshad',
                                 1000,
-                                'Web Developer',
-                                1000,
                                 'MERN Stack',
+                                1000,
+                                'Web Developer',
                                 1000,
                                 'UI/UX Designer',
                                 1000
